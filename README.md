@@ -1,16 +1,51 @@
-## Hi there 👋
+# 💀 Shadow20080
 
-<!--
-**Shadow20080/Shadow20080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹 Front-End & Linux Enthusiast  
+### 🔹 Arch-based Distro Lover • Security Explorer • Customization Addict
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me  
+- 🕶️ Alias: **Shadow20080**  
+- 🌱 Learning & building with **HTML**, **CSS**, and modern web design basics  
+- 🐧 Passion for Linux systems — especially **Arch**, **EndeavourOS**, **Manjaro**, **Kali**, **ParrotOS**, and more  
+- 🔧 Love customizing environments and exploring security tools  
+- 🧩 Always improving, always learning  
+
+---
+
+## 🔧 Tech & Tools  
+### 🖥️ Front-End  
+- HTML  
+- CSS  
+
+### 🐧 Linux Distros I Use  
+- Arch Linux  
+- EndeavourOS  
+- Manjaro  
+- Kali Linux  
+- Parrot OS  
+- More Debian/Arch-based systems  
+
+### ⚙️ Tools  
+- VS Code  
+- Git & GitHub  
+- Terminal power user  
+
+---
+
+## 📊 GitHub Stats  
+![Shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow20080&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow20080&layout=compact&theme=tokyonight)
+
+---
+
+## 🕸️ Connect  
+*(Send me your Discord, website, or other links if you want them added.)*
+
+---
+
+## ⚡ Fun Facts  
+- I break systems just to fix them again  
+- I enjoy testing Linux distros  
+- Terminal > GUI 😎  
