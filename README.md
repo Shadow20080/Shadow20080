@@ -44,13 +44,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shadow20080&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-
-## 🕸️ Connect  
-*(Send me your Discord, website, or other links if you want them added.)*
-
 ---
 
 ## ⚡ Fun Facts  
