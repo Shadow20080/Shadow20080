@@ -1,4 +1,4 @@
-# 💀 Shadow20080
+# 😊 Shadow20080
 
 ### 🔹 Front-End & Linux Enthusiast  
 ### 🔹 Arch-based Distro Lover • Security Explorer • Customization Addict
@@ -46,11 +46,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
-## 📊 GitHub Stats  
-![Shadow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow20080&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow20080&layout=compact&theme=tokyonight)
-
----
 
 ## 🕸️ Connect  
 *(Send me your Discord, website, or other links if you want them added.)*
